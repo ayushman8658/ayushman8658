@@ -109,18 +109,18 @@ Bash scripting suite for system maintenance, built using Bash scripting.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushman8658&show_icons=true&theme=nord&border_color=a78bfa&icon_color=a78bfa&title_color=a78bfa&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman8658&layout=compact&theme=nord&border_color=a78bfa&title_color=a78bfa&hide_border=false" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ayushman8658&show_icons=true&theme=nord&border_color=a78bfa&icon_color=a78bfa&title_color=a78bfa&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman8658&layout=compact&theme=nord&border_color=a78bfa&title_color=a78bfa&hide_border=false" width="48%" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=ayushman8658&theme=nord&border=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="80%" />
 
 </div>
 
-### 🏆 Trophies
 
-<div align="center">
+
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ayushman8658&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+</div> -->
 
 ### 📈 Contribution Activity
 
