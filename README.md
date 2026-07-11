@@ -42,6 +42,27 @@ const ayushman = {
   openTo: "Not currently open to work"
 };
 ```
+---
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python" />
+
+**Frontend / Mobile**
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,linux,jenkins,terraform,postman,git,github" />
+
+**Salesforce Ecosystem**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00033C?style=for-the-badge&logo=mulesoft&logoColor=00A0DF)
 
 ---
 
@@ -80,28 +101,8 @@ Bash scripting suite for system maintenance, built using Bash scripting.
 
 [🔗 Code](https://github.com/ayushman8658/System_maintenance-Automation-)
 
----
 
-## 🛠️ Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python" />
-
-**Frontend / Mobile**
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,linux,jenkins,terraform,postman,git,github" />
-
-**Salesforce Ecosystem**
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-00033C?style=for-the-badge&logo=mulesoft&logoColor=00A0DF)
 
 ---
 
