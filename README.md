@@ -51,7 +51,7 @@ const ayushman = {
 
 **Frontend / Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,mysql,mongodb" />
 
 **Cloud & DevOps**
 
