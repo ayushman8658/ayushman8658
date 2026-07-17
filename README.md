@@ -72,9 +72,9 @@ const ayushman = {
 
 MERN-stack job discovery platform for freshers, featuring real-time job listings via API, a responsive UI with TailwindCSS & Shadcn/UI, and fast builds using Vite — designed to match users with relevant entry-level opportunities efficiently.
 
-<div align="left">
+<!-- <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushman8658&repo=HireSpark&theme=nord&border_color=a78bfa" />
-</div>
+</div> -->
 
 | Layer | Technology |
 |---|---|
@@ -90,9 +90,9 @@ MERN-stack job discovery platform for freshers, featuring real-time job listings
 
 Bash scripting suite for system maintenance, built using Bash scripting.
 
-<div align="left">
+<!-- <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushman8658&repo=System_maintenance-Automation-&theme=nord&border_color=a78bfa" />
-</div>
+</div> -->
 
 | Layer | Technology |
 |---|---|
