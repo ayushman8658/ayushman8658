@@ -133,9 +133,9 @@ Bash scripting suite for system maintenance, built using Bash scripting.
 
 ## 🧩 LeetCode Stats
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://leetcard.jacoblin.cool/ayushman2004?theme=nord&font=Fira%20Code&ext=heatmap" />
-</div>
+</div> -->
 
 ---
 
